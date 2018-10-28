@@ -1,0 +1,38 @@
+---
+layout: post
+title: Belajar melihat dari orang buta
+date: 2018-10-08 00:23:17 +0700
+description: # Add post description (optional)
+img: timetravel.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Produktivitas, Opini]
+---
+
+>Disclaimer: Judul hanyalah kiasan, tidak bermaksud menghina ataupun merendahkan kelompok tertentu.
+
+Kebanyakan dari kita terlahir dari Orang Tua yang suka menentukan arah kemana kita akan melangkah. Atau, ada juga yang agak beruntung, terbebas dari pengaruh sudut pandang Orang Tuanya, berdiri sendiri. Saya sendiri berada di tengah-tengah, Bapak paham bahwa saya sudah tahu mana yang baik dan mana yang buruk, sedangkan Ibu masih menganggap saya bayi kecilnya, Alhamdulillah.
+
+Saya sering mendapat nasehat yang kontradiktif dari keduanya. Contohnya masalah pergaulan, Ibu sering memberi peringatan agar tidak berteman dengan orang-orang yang memiliki sifat tidak baik, tapi Bapak mengizinkan saya berteman dengan siapapun, asal bisa memfilter baik dan buruknya.
+
+Saya sendiri lebih condong ke nasehat Bapak. Semasa SLTA, teman nongkrong saya adalah orang-orang nakal, begundal-begundal tukang mabuk, suka balap liar dsb. selain karena pilihan saya terbatas (Teman seumuran tidak banyak), siapa tahu saya bisa mengubah mereka jadi pemuda polos seperti saya, hehe.
+
+Tapi sungguh, saya belajar banyak dari mereka. Saya belajar solidaritas, belajar banyak tentang kehidupan yang saya yakin tidak akan saya temukan di tempat lain. Ada ilmu-ilmu tersembunyi yang eksklusif, unik, yang hanya bisa didapat dari bergaul dengan golongan-golongan tertentu, dan saya sama sekali tidak menyesal berteman dengan mereka semua, sampai saat ini.
+
+Well, tentunya proteksi diri juga sangat diperlukan. Kita harus bisa menjaga orisinalitas pribadi sendiri. Jadilah kuat, jangan sampai hal-hal negatif berhasil lolos ke diri kita. Kata temen saya sih, Ambil positifnya aja. Selama hampir 3 tahun lebih saya berteman dengan mereka, belum pernah sekalipun saya ikut mabuk, mencicipi pun belum pernah. Mereka pun menghargai keputusan saya, tidak pernah memaksa saya minum.
+
+Sekarang mereka sudah mulai sadar, sudah mulai mikir masa depan. Sudah jarang melakukan hal-hal negatif, Alhamdulillah.
+
+Saya pernah mendengar kata-kata ini (Tapi lupa darimana), bahwa sebuah permata walaupun keluar dari d*bur babi, maka kita wajib membersihkan dan memanfaatkannya. Seperti halnya ilmu, walaupun itu keluar dari orang yang jahat sekalipun, apabila itu baik, benar dan bermanfaat sudah sepantasnya kita ambil dan cerna.
+
+Percayalah, ada banyak kejutan dan pengalaman menarik menantimu kalau kamu mau keluar dan mencari.
+
+Singkatnya seperti ini:
+
+{% highlight java %}
+Belajarlah dari siapapun,
+Selalu ada harta tersembunyi dibalik ilusi yang kita namai kekurangan.
+Cheers :)
+{% endhighlight %}
+
+>Saya barusan ditelfon ibu, mengabarkan bahwa salah satu teman yang saya ceritakan sedang dirawat di ICU,
+>Lekas sembuh, mas :)
