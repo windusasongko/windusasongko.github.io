@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Belajar melihat dari orang buta
-date: 2018-10-08 00:23:17 +0700
+date: 2018-10-29 00:58:17 +0700
 description: # Add post description (optional)
-img: timetravel.jpg # Add image post (optional)
+img: belajarmelihat.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Produktivitas, Opini]
 ---
