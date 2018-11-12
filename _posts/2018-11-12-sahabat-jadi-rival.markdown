@@ -1,0 +1,24 @@
+---
+layout: post
+title: Sahabat jadi Rival
+date: 2018-11-12 01:15:20 +0700
+description: # Add post description (optional)
+img: sahabatjadirival.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Produktivitas, Opini]
+---
+Pagi ini akhirnya paket buku pesanan saya (The Da Vinci Code karangan Dan Brown) sampai juga. Rencananya sih, mau saya baca sore harinya selesai jam kerja, tapi tidak jadi karena teman-teman Guild Dracarys dari game Toram Online mengajak ber-group call ria menggunakan Discord. Yah, walaupun saya lebih banyak diam, mendengarkan dan tertawa karena malu Bahasa Inggris saya masih belepotan, haha.
+
+Selesai bercanda dengan teman-teman Guild, sekitar jam 8 malam, gagal membaca lagi karena diajak ngopi keluar oleh sahabat sekaligus rival abadi saya, Yudis. Niatnya sih, untuk lembur kerjaan yang sudah mendekati Deadline, tapi ujung-ujungnya malah laptop kami matikan, dan ngobrol panjang lebar tentang berbagai topik. Masa lalu, masa kini, hingga masa depan. Sayang sekali sahabat kami yang satunya, Ijul, tidak ikut karena sedang sibuk main Dota 2.
+
+Saya kenal dengan mereka sudah cukup lama, karena dulu satu SMK. Sejak bertemu Yudis, entah karena mukanya ngeselin atau bagaimana, saya sudah menandai dia sebagai Rival. Apalagi dulu kebetulan kami menyukai wanita yang sama. Ditambah ambisinya yang menyetarai, bahkan melampaui saya. Pernah dulu saya belajar Blender 3D dari modelling dasar hingga teknik rigging secara otodidak hanya karena gengsi si botak satu ini mendapat materi game development dari tempat PKL nya, sedangkan saya "hanya" diajari cara menginstall Windows.
+
+Kalau si Ijul, saya menandainya agak terlambat, karena tidak satu angkatan sehingga belum begitu kenal. Dia saya tandai karena pola pikirnya yang luar biasa untuk seseorang yang satu angkatan lebih muda daripada saya. Skillnya juga mumpuni, tidak bisa diremehkan. Dia sudah bisa ngoding bahkan mungkin sejak sebelum saya terjun ke dunia Programming. Saya berani bilang, skill programmingnya saat ini lebih tinggi dibanding 80% teman sekelas saya di bangku perkuliahan dulu, padahal dia belum kuliah. Well, kalau sekarang, dia ikut kelas malam di salah satu kampus swasta di Yogyakarta (Semangat mas Ijul!).
+
+Mereka punya kriteria yang sama, termotivasi, cerdas dan ambisius, serta berada di jangkauan saya, sehingga tepat untuk saya jadikan Rival.
+
+Memiliki Rival itu penting untuk pengembangan diri. Sungguh, mungkin saya tidak akan berada di posisi saya saat ini jika tidak menandai mereka sebagai Rival. Mungkin hidup saya jadi Stagnan, tidak maju-maju, karena tidak ada pemicu untuk terus belajar. Tapi penting juga menjadikan mereka teman dekat, agar bisa berkembang bersama-sama, tidak kebablasan menggunakan cara-cara tidak baik untuk menjadi lebih baik.
+
+Saya mencatat dalam hati achievement atau prestasi baik yang telah mereka lakukan untuk saya lampaui nantinya. Baru-baru ini Yudis sempat viral karena berhasil menyelesaikan Kelas KADE tercepat, dan Ijul berhasil mengakuisisi sebuah Macbook, keduanya sukses membuat saya ingin bergerak melakukan sesuatu untuk menyetarai mereka.
+
+See you on top, guys!
