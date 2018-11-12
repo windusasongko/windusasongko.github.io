@@ -3,7 +3,7 @@ layout: post
 title: Sahabat jadi Rival
 date: 2018-11-12 01:15:20 +0700
 description: # Add post description (optional)
-img: sahabatjadirival.jpg # Add image post (optional)
+img: sahabat.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Produktivitas, Opini]
 ---
