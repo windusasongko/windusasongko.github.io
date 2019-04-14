@@ -22,5 +22,6 @@ Jika saya amati, cukup banyak perubahan positif yang terjadi di kampus ini. Cont
 
 Hampir semua area dipasangi papan dilarang merokok. Mungkin karena dahulu tidak begitu saya acuhkan, saya agak lupa dimana tempat yang diperbolehkan untuk merokok, dan harus muter-muter mencari area merokok (karena sekarang saya perokok cukup aktif).
 
-Saya pun menulis ini ditempat tersebut, sayangnya belum disediakan power outlet, padahal baterai laptop saya tinggal sedikit.
+Saya pun menulis ini ditempat tersebut, sayangnya belum disediakan power outlet, padahal baterai laptop saya tinggal sedikit. Dan sepertinya kartu mahasiswa saya sudah tidak bisa digunakan untuk login Wifi, mungkin saya sudah di DO, wkwk.
 
+Jujur, saya agak rindu masa kuliah. Terkadang muncul pikiran ingin menyelinap kemari kemudian mengikuti jam perkuliahan secara acak, duduk diam dan mendengarkan, sekedar melepas rindu, hehe.
