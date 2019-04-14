@@ -16,4 +16,11 @@ Buku-buku sebelumnya sudah saya baca, Garis waktu, Konspirasi Alam Semesta, dan 
 
 Hari ini sebenarnya niat saya adalah memulai membaca buku tersebut, tapi Yudis malah mengajak ke Amikom untuk bertemu temannya, dan saya, dilanda gelombang nostalgia, langsung mengiyakan, wkwk.
 
-Saya sudah lupa kapan terakhir saya kesini, 
+Saya sudah lupa kapan terakhir saya kesini, semenjak saya memutuskan untuk berhenti kuliah, mungkin tahun lalu.
+
+Jika saya amati, cukup banyak perubahan positif yang terjadi di kampus ini. Contohnya, Gedung baru yang menjulang tinggi tepat di depan gerbang belakang. Dahulu, ketika saya masih kuliah, gedung tersebut masih dibangun, banyak debu bertebaran, dan jalur keluar dialihkan, harus memutar lebih jauh.
+
+Hampir semua area dipasangi papan dilarang merokok. Mungkin karena dahulu tidak begitu saya acuhkan, saya agak lupa dimana tempat yang diperbolehkan untuk merokok, dan harus muter-muter mencari area merokok (karena sekarang saya perokok cukup aktif).
+
+Saya pun menulis ini ditempat tersebut, sayangnya belum disediakan power outlet, padahal baterai laptop saya tinggal sedikit.
+
