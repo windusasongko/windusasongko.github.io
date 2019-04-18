@@ -1,0 +1,30 @@
+---
+layout: post
+title: Saya Minta Maaf
+date: 2019-04-18 13:20:00 +0700
+description: # Add post description (optional)
+img: maaf.jpg
+fig-caption: # Add figcaption (optional)
+tags: [Opini]
+---
+
+Pernah nggak, merasa bahagia tapi sedih, sedih tapi bahagia?
+Bahagia sebahagia-bahagianya, sekaligus sedih sesedih-sedihnya, di waktu yang bersamaan.
+Seumur hidup, saya baru pernah dua kali.
+
+Yang pertama tahun 2015, ketika pengumuman beasiswa penuh kuliah. Saya luar biasa bahagia, karena berhasil diterima. Hey lihatlah! Si anak miskin, ternyata bisa melanjutkan kuliah. Di sisi lain, saya juga luar biasa sedih dan kecewa. Karena sahabat saya, sahabat seperjuangan, yang juga mendaftar beasiswa yang sama, melengkapi berkas bersama-sama, tidak diterima. Walaupun akhirnya dia memutuskan untuk melanjutkan kuliah tanpa beasiswa, walaupun kami sudah wisuda, walaupun saat ini kita masih sahabat, rasa bersalah itu masih ada.
+
+Yang kedua, saat ini. Entah kenapa, sampai disini, saya merasa sedih sekali karena merasa banyak waktu hidup selama ini yang terbuang sia-sia. Sekaligus, luar biasa bahagia, karena Tuhan telah memberikan kisah hidup yang luar biasa indah, dimana saya bisa kenal dengan orang-orang baik seperti kalian semua. BTW, saya menulis 'luar biasa' dua kali, entahlah, sepertinya Tuhan memang penuh keluarbiasaan, hehe.
+
+Hey kamu, saya minta maaf.
+Untuk manusia-manusia yang pernah saya kecewakan. 
+Untuk hati-hati yang pernah saya patahkan.
+Untuk kamu-kamu yang membaca tulisan ini.
+Yang masih menyimpan dendam, ataupun sudah sepenuhnya melupakan.
+Saya diciptakan untuk menjadi tidak sempurna.
+Saya sadar betapa bajingannya saya di masa lalu, tapi percayalah, saya sudah banyak belajar.
+Saya, dengan setulusnya hati, meminta maaf.
+
+Semoga, setelah ini, saya dan kalian dipertemukan kembali dalam keadaan saya yang baru.
+
+Sampai berjumpa kembali. :)
