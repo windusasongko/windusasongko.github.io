@@ -1,0 +1,20 @@
+---
+layout: post
+title: Bahagia itu dari hati
+date: 2019-04-21 20:20:00 +0700
+description: # Add post description (optional)
+img: 
+fig-caption: # Add figcaption (optional)
+tags: [Opini]
+---
+
+Entah kenapa tiba-tiba muncul pemikiran ini di kepala saya.
+Yaitu betapa kehidupan ini dipenuhi standarisasi-standarisasi yang sebenarnya malah membuat pandangan kita bias. Salah satu contohnya adalah, definisi bahagia. Banyak (atau malah sebagian besar orang) berpendapat alangkah bahagianya hidup orang-orang berharta, betapa mereka tidak perlu pusing memikirkan mau mencari uang dimana untuk makan besok hari seperti sebagian orang lainnya.
+
+Tapi jika itu merupakan syarat untuk menjadi bahagia, kenapa rasio bunuh diri karena depresi tidak didominasi oleh orang-orang miskin?
+
+Manusia terdoktrin untuk mempercayai bahwa bahagia itu tercipta karena faktor-faktor eksternal, kekayaan adalah salah satunya. Sampai lupa bahwa kebahagiaan itu datangnya dari hati, sedangkan hati itu kita sendiri yang mengendalikan. Buktinya banyak gelandangan yang sepertinya hidupnya lebih tenang dibanding kapitalis-kapitalis kaya raya.
+
+Saya muak dengan orang-orang yang suka mengeluhkan kehidupannya (well, kadang termasuk saya sendiri), apalagi di media sosial. Betapa sakit hatinya karena dikhianati sang kekasih, betapa berat beban kerjanya sehari-hari, betapa ini, betapa itu. Maksud saya, untuk apa memperlihatkan kesedihan di media sosial? Saya yakin 80% orang yang melihat tidak perduli dengan masalah kita, dan 20% sisanya hanya pura-pura perduli.
+
+Setelah saya pikir-pikir, formula bahagia itu sebenarnya cukup sederhana. Menurut saya, cukup melihat kebawah ketika diberi cobaan, dan menengok keatas ketika mendapat keberuntungan.
