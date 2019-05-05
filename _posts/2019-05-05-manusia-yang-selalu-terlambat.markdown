@@ -19,7 +19,7 @@ Diantara teman-teman sekelas yang hanya berjumlah 10 orang (maklum, SD kecil dar
 
 Tapi karena hal tersebut, saya malah seperti dimanja oleh guru-guru saya. Salah satu contohnya adalah dibiarkan ketika terlambat, karena tahu saya bisa mengejar.
 
-Semua itu menjadi kebiasaan, sampai sekarang. SMP, SMK, sampai kuliah, saya sering sekali terlambat, disengaja ataupun tidak. Kebetulan juga otak saya juga agak encer, jadi konsekuensi nya juga tidak terlalu besar, sehingga kebiasaan ini jadi semakin parah.
+Semua itu menjadi kebiasaan, sampai sekarang. SMP, SMK, sampai kuliah, saya sering sekali terlambat, disengaja ataupun tidak. Kebetulan otak saya juga agak encer, jadi konsekuensi nya tidak terlalu besar, sehingga kebiasaan ini jadi semakin parah.
 
 Entahlah, secara tidak sadar keterlambatan itu berpengaruh ke hidup saya. Contohnya ketika bertemu teman, saya biasanya datang terlambat. Mengerjakan deadline, hampir selalu di ujung waktu batas pengumpulan. Bukan karena tidak ada waktu, tapi sering karena memang disengaja.
 
