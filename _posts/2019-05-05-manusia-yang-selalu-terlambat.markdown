@@ -21,7 +21,7 @@ Tapi karena hal tersebut, saya malah seperti dimanja oleh guru-guru saya. Salah 
 
 Semua itu menjadi kebiasaan, sampai sekarang. SMP, SMK, sampai kuliah, saya sering sekali terlambat, disengaja ataupun tidak. Kebetulan otak saya juga agak encer, jadi konsekuensi nya tidak terlalu besar, sehingga kebiasaan ini jadi semakin parah.
 
-Entahlah, secara tidak sadar keterlambatan itu berpengaruh ke hidup saya. Contohnya ketika bertemu teman, saya biasanya datang terlambat. Mengerjakan deadline, hampir selalu di ujung waktu batas pengumpulan. Bukan karena tidak ada waktu, tapi sering karena memang disengaja. Contoh sederhananya ya tulisan ini, deadline untuk challenge nulis tiap minggu adalah hari minggu pukul 9, dan saya nenulis ini hari ini juga dari jam 7-8 sambil ngobrol dan ngopi di kafe bersama teman-teman saya (ketahuan kalau tidak taraweh, wkwk).
+Entahlah, secara tidak sadar keterlambatan itu berpengaruh ke hidup saya. Contohnya ketika bertemu teman, saya biasanya datang terlambat. Mengerjakan deadline, hampir selalu di ujung waktu batas pengumpulan. Bukan karena tidak ada waktu, tapi sering karena memang disengaja. Contoh sederhananya ya tulisan ini, deadline untuk challenge nulis tiap minggu adalah hari minggu pukul 9, dan saya menulis ini hari ini juga dari jam 7-8 sambil ngobrol dan ngopi di kafe bersama teman-teman saya (ketahuan kalau tidak taraweh, wkwk).
 
 Hal merokok, saya merokok baru sejak beberapa waktu yang lalu, padahal teman sepantaran bahkan ada yang sudah merokok sejak SMP hingga lulus SLTA. Dalam hal percintaan pun, saya juga terlambat, yang lain sudah berpetualang jauh bersama kekasihnya, saya ingin berbicara dengan orang yang saya sukai saja gemetar, belum berani, haha.
 
