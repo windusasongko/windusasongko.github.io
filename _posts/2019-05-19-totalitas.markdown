@@ -26,5 +26,5 @@ Bung, **malu sama kontolmu**, jangan kau anggap semua aspek kehidupan itu kompet
 
 Sekian.
 
-_Mulai hari ini saya memutuskan untuk menggunakan kata-kata eksplisit walaupun terkesan kasar_
+_Mulai hari ini saya memutuskan untuk menggunakan kata-kata eksplisit walaupun terkesan kasar._
 _Well, karena ini opini, dan saya tidak peduli, hehe._
