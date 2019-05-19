@@ -28,6 +28,8 @@ Aku tidak akan seegois itu memintamu menutup diri demi aku. Pergilah, nikmati du
 
 Atau, jika memang perjalananmu sudah selesai, izinkan aku menjadi rumah tempat kau menetap dan beristirahat.
 
+Tentu saja, aku juga akan senantiasa berusaha supaya suatu saat nanti pantas menjadi pendampingmu.
+
 Ah, masih banyak hal-hal tidak penting yang ingin kubicarakan bersamamu. Begitu banyak lagu-lagu yang ingin kunyanyikan untukmu. Tapi mungkin semuanya bisa menunggu, ingatkan saja aku nanti, setelah kau membaca tulisan ini.
 
 Dariku, yang mencintaimu tanpa kausa. :)
