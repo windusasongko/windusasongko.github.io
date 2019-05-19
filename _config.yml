@@ -1,6 +1,6 @@
-title: Hello, world! I'm Ageng Windu Sasongko
+title: Windu
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a Google Certified Associate Android Developer from Yogyakarta, Indonesia.
+  Tukang scan.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -8,9 +8,9 @@ site-twitter: #if your site has a twitter account, enter it here
 
 
 # Author Settings
-author: Ageng Windu Sasongko # add your name
+author: Windu # add your name
 author-img: windusasongko.jpg # add your photo
-about-author: Mobile apps enthusiast. Love to solve people's problem using code. # add description
+about-author: Maido enthusiast. # add description
 social-twitter: sasongkowindu # add your Twitter handle
 social-facebook: winduwindus # add your Facebook handle
 social-github: windusasongko # add your Github handle
