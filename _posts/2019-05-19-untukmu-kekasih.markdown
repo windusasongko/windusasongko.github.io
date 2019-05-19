@@ -24,7 +24,7 @@ Lucu memang. Aku belum tahu siapa dirimu, Perempuan yang digariskan Tuhan mengis
 
 Apa saja yang kau lakukan hari ini? Sudah makan? Jaga dirimu baik-baik ya.
 
-Aku tidak akan seegois itu memintamu menutup diri demi aku. Pergilah, nikmati dunia, lakukan apapun yang kau mau. Suatu saat nanti, ketika kita sudah bertemu, aku siap berjalan bersamamu.
+Aku tidak akan seegois itu memintamu menutup diri demi aku. Pergilah! nikmati dunia, lakukan apapun yang kau mau. Suatu saat nanti, ketika kita sudah bertemu, aku siap berjalan bersamamu.
 
 Atau, jika memang perjalananmu sudah selesai, izinkan aku menjadi rumah tempat kau menetap dan beristirahat.
 
