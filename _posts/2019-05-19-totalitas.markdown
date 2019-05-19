@@ -18,9 +18,9 @@ Saya juga berusaha menerapkannya pada kehidupan sosial, saya maju terus selama s
 
 Tapi, saya pun manusia biasa, tentu saja bisa melakukan kesalahan. Jika sudah begitu, tentu saja saya akan langsung berhenti untuk meminta maaf, dengan tetap tegap selayaknya laki-laki.
 
-Sesuai prinsip yang diajarkan Bapak, saya akan melakukannya dengan tetap mengangkat kepala tinggi-tinggi, tidak menunduk seperti banci, karena melakukan kesalahan itu manusiawi. Well, mau dibumbui apapun kalau salah ya tetap salah, kan?.
+Sesuai prinsip yang diajarkan Bapak, saya akan melakukannya dengan tetap mengangkat kepala tinggi-tinggi, tidak menunduk seperti banci, karena melakukan kesalahan itu manusiawi. Well, mau dibumbui apapun kalau salah ya tetap salah, kan?
 
-Untungnya saya tidak pernah dididik untuk menghindar, atau bahkan menuruti ego, melemparkan alasan atau dalih, dengan tujuan supaya saya tidak kalah, pokoknya harus menang.
+Untungnya saya tidak pernah dididik untuk menghindar, atau bahkan menuruti ego, melemparkan bumbu alasan atau dalih, dengan tujuan supaya saya tidak kalah, pokoknya harus menang!
 
 Wah, saya **malu sama kontol sendiri**, nggak semua aspek kehidupan itu saya anggap kompetisi, **kompetisi ndasmu**.
 
