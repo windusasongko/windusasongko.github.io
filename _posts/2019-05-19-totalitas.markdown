@@ -22,7 +22,7 @@ Sesuai prinsip yang diajarkan Bapak, saya akan melakukannya dengan tetap mengang
 
 Untungnya saya tidak pernah dididik untuk menghindar, atau bahkan menuruti ego, melemparkan alasan atau dalih, dengan tujuan supaya saya tidak kalah, pokoknya harus menang.
 
-Bung, **malu sama kontolmu**, jangan kau anggap semua aspek kehidupan itu kompetisi, **kompetisi ndasmu**.
+Wah, saya **malu sama kontol sendiri**, nggak semua aspek kehidupan itu saya anggap kompetisi, **kompetisi ndasmu**.
 
 Sekian.
 
