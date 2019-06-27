@@ -1,0 +1,33 @@
+---
+layout: post
+title: Miyarsa
+date: 2019-06-27 20:00:17 +0700
+description: # Add post description (optional)
+img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Opini]
+---
+
+"The quieter you become, the more you’re able to hear."
+
+Kalimat diatas adalah jargon backtrack/Kali Linux. Saya masih ingat pertama kali membaca tulisan tersebut di Wallpaper default Backtrack 5 sekian tahun yang lalu.
+
+Sebenarnya, kalau disuruh memillih, saya lebih suka mendengarkan daripada berbicara. Lagipula saya sendiri juga tidak terlalu pandai mengungkapkan pikiran dengan berbicara.
+
+Manusia itu unik, setiap orang pasti punya ceritanya masing-masing yang tidak akan pernah sama, dan saya suka sekali mendengarkan cerita-cerita tersebut.
+
+Cukup dengan sekian gelas kopi dan sekian batang rokok, saya sudah bisa mengambil pelajaran kehidupan yang luar biasa, diambil dari sudut pandang sang lawan bicara.
+
+Setelah sekian lama mendengarkan banyak sekali cerita-cerita orang dari sudut pandang yang berbeda, entah kenapa saya jadi mudah sekali memaklumi sesuatu.
+
+Disadari atau tidak, saya dulu sering sekali menghakimi seseorang. Ketika seseorang melakukan atau mendapatkan sesuatu, saya sering berpikiran "Kenapa tidak begini..." atau "Kenapa tidak begitu..." dan lain sebagainya.
+
+Sekarang, saya menyadari (betul-betul menyadari, bukan hanya sekedar tahu, itu beda) bahwa selalu ada alasan dibalik setiap kejadian.
+
+Manusia seakan koin dengan dua sisi, dibalik apa yang ditampilkan, selalu ada hal-hal yang tidak ingin mereka tunjukkan.
+
+Dan percayalah, banyak kejutan yang bisa kita dapatkan jika kita ingin mencari tahu.
+
+Cukup dengan mengurangi berbicara, dan mulai mendengarkan.
+
+Cheers.
