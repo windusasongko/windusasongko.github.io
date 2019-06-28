@@ -3,7 +3,7 @@ layout: post
 title: Samana
 date: 2018-10-08 00:17:20 +0700
 description: # Add post description (optional)
-img: timetravel.jpg # Add image post (optional)
+img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Produktivitas, Opini]
 ---
