@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Sahabat jadi Rival
+title: Akwayan
 date: 2018-11-12 01:15:20 +0700
 description: # Add post description (optional)
 img: sahabat.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Produktivitas, Opini]
 ---
+
+***Kawan, teman.***
+
 Pagi ini akhirnya paket buku pesanan saya (The Da Vinci Code karangan Dan Brown) sampai juga. Rencananya sih, mau saya baca sore harinya selesai jam kerja, tapi tidak jadi karena teman-teman Guild Dracarys dari game Toram Online mengajak ber-group call ria menggunakan Discord. Yah, walaupun saya lebih banyak diam, mendengarkan dan tertawa karena malu Bahasa Inggris saya masih belepotan, haha.
 
 Selesai bercanda dengan teman-teman Guild, sekitar jam 8 malam, gagal membaca lagi karena diajak ngopi keluar oleh sahabat sekaligus rival abadi saya, Yudis. Niatnya sih, untuk lembur kerjaan yang sudah mendekati Deadline, tapi ujung-ujungnya malah laptop kami matikan, dan ngobrol panjang lebar tentang berbagai topik. Masa lalu, masa kini, hingga masa depan. Sayang sekali sahabat kami yang satunya, Ijul, tidak ikut karena sedang sibuk main Dota 2.
