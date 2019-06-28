@@ -2,11 +2,14 @@
 layout: post
 title: Tresna
 date: 2019-05-26 20:00:17 +0700
-description: Cinta, Kasih, Sayang.
+description: # Add image post (optional)
 img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Opini]
 ---
+
+***Cinta, Kasih, Sayang.***
+
 Kemarin, jam 1 pagi, saya menonton sebuah film di saluran televisi swasta, karena tidak bisa tidur. Judulnya, kalau tidak salah, Second best exotic marigold hotel.
 
 Film ini berasal dari India, dan pastinya sudah lama sekali, karena sudah boleh diputar di televisi.
