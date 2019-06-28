@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Saya Minta Maaf
+title: Ksama
 date: 2019-04-18 13:20:00 +0700
 description: # Add post description (optional)
 img: maaf.jpg
 fig-caption: # Add figcaption (optional)
 tags: [Opini]
 ---
+
+***Ampun, Maaf.***
 
 Pernah nggak, merasa bahagia tapi sedih, sedih tapi bahagia?
 Bahagia sebahagia-bahagianya, sekaligus sedih sesedih-sedihnya, di waktu yang bersamaan.
