@@ -8,6 +8,8 @@ fig-caption: # Add figcaption (optional)
 tags: [Opini]
 ---
 
+***Mendengar, menyaksikan.***
+
 "The quieter you become, the more you’re able to hear."
 
 Kalimat diatas adalah jargon backtrack/Kali Linux. Saya masih ingat pertama kali membaca tulisan tersebut di Wallpaper default Backtrack 5 sekian tahun yang lalu.
