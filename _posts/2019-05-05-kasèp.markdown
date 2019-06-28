@@ -8,6 +8,8 @@ fig-caption: # Add figcaption (optional)
 tags: [Opini]
 ---
 
+***Terlambat.***
+
 Saya ini, manusia yang selalu terlambat. 
 Dimulai sejak Sekolah Dasar, saya pernah berangkat jam 8, padahal pembelajaran dimulai pukul 7. Sampai ada seorang warga dekat sekolah yang terheran-heran berani-beraninya saya baru berangkat.
 
