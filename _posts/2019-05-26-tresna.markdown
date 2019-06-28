@@ -2,7 +2,7 @@
 layout: post
 title: Tresna
 date: 2019-05-26 20:00:17 +0700
-description: # Add post description (optional)
+description: Cinta, Kasih, Sayang.
 img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Opini]
