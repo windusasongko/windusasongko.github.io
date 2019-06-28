@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Kembali ke Kampus
+title: Dwija
 date: 2019-04-14 19:37:00 +0700
 description: # Add post description (optional)
 img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Opini]
 ---
+
+***Guru, pengajar; dwijawara: maha Guru.***
 
 Sejauh apa pun jalan yang kita tempuh, tujuan akhir selalu rumah. - Fiersa Besari
 
