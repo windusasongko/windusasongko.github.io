@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Disadari atau tidak, kita semua adalah penjelajah waktu
+title: Samana
 date: 2018-10-08 00:17:20 +0700
 description: # Add post description (optional)
 img: timetravel.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Produktivitas, Opini]
 ---
-Bukan, ini bukan Clickbait, tenan…
+
+***Ketika itu, Waktu itu.***
 
 Mari istirahat sejenak, tenangkan pikiran. Lunakkan hati, karena tulisan ini tidak akan bisa dipahami dengan hati yang keras.
 
