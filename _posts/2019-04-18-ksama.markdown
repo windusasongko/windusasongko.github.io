@@ -3,7 +3,7 @@ layout: post
 title: Ksama
 date: 2019-04-18 13:20:00 +0700
 description: # Add post description (optional)
-img: maaf.jpg
+img: # Add post description (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Opini]
 ---
