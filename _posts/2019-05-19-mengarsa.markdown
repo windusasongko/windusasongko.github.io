@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Totalitas
+title: Mengarsa
 date: 2019-05-19 20:20:00 +0700
 description: # Add post description (optional)
 img: 
 fig-caption: # Add figcaption (optional)
 tags: [Opini]
 ---
+
+***Maju, pergi ke depan; mengarsa-arsa : mengharap; mengarsani : memimpin.***
 
 Kalimat Bapak yang selalu terngiang di kepala saya adalah, `Nek wedi ojo wani-wani, nek wani ojo wedi-wedi.`, dalam Bahasa Indonesia kurang lebih artinya `Kalau takut jangan berani-berani, kalau berani jangan takut-takut.`. Kenapa selalu terngiang? well, mungkin karena Bapak sering sekali mengucapkan kalimat tersebut, pada saya yang dulu masih belum paham artinya apa. Terkesan lucu, karena kata-katanya diulang, saya jadi teringat terus.
 
