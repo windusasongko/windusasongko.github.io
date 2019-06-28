@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Hidup adalah masalah
+title: Wiwandha
 date: 2019-04-28 20:20:00 +0700
 description: # Add post description (optional)
 img: 
 fig-caption: # Add figcaption (optional)
 tags: [Opini]
 ---
+
+***Halangan, Rintangan, Kendala, Masalah.***
 
 No, seriously, sudah sadar belum, kalau hidup kita itu adalah serangkaian masalah yang datang secara beruntutan. Dengan masa-masa tenang di sela-selanya, dan masa istirahat di dalam proses penyelesaiannya.
 
