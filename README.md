@@ -1,4 +1,4 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# Ageng Windu Sasongko's Site
 
 ![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
